@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-demo"
+  site-url: "https://deephbz.github.io/nbdev-demo"
+  description: "demo"
+  repo-branch: master
+  repo-url: "https://github.com/deephbz/nbdev-demo"
